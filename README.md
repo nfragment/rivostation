@@ -1,2 +1,2 @@
 # rivostation
-A fully configurable and user customizable computer
+Truly personalized computer
